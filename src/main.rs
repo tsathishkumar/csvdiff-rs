@@ -1,9 +1,9 @@
 extern crate clap;
 extern crate csv;
 extern crate twox_hash;
+extern crate chan;
 
 use clap::{App, Arg};
-use csv::ReaderBuilder;
 use std::fs::File;
 
 mod digest;

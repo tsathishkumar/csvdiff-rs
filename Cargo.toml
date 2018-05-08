@@ -7,3 +7,4 @@ authors = ["tsathish <tsatiz@gmail.com>"]
 clap = "2.31"
 csv = "1.0.0-beta.5"
 twox-hash = "1.1.0"
+chan = "0.1"
